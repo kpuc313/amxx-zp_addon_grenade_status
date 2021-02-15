@@ -2,22 +2,20 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/kpuc313/AMXX-ZP_Addon_Grenade_Status/master/Preview/Preview.jpg" width="700px"></p>
 
-<br /><br />
+<br />
 
-<h1>Official Forum Threads:</h1>
-
+# :globe_with_meridians: Official Forum Threads:
 **[EN]** https://forums.alliedmods.net/showthread.php?t=113711<br />
 **[BG]** https://amxx-bg.info/viewtopic.php?f=110&t=7373
 
 <br />
 
-<h1>Description:</h1>
+# :page_facing_up: Description:
 This is a plugin for Counte-Strike 1.6's Zombie Plague Mod that shows your grenade status: Fire, Frost, Flare and Infection.
 
-<br /><br />
+<br />
 
-<h1>Cvars:</h1>
-
+# :hammer_and_wrench: Cvars:
     // Nade Status Cvar  
     zp_nadestatus_icon "1" // [0=Hide | 1=Show | 2=Flash (Doesn't work with red color)]
     
@@ -39,25 +37,22 @@ This is a plugin for Counte-Strike 1.6's Zombie Plague Mod that shows your grena
 
 <br />
 
-<h1>Requirements:</h1>
-<b>zombieplague</b>
+# :books: Requirements:
+**zombieplague**
 
-<br /><br />
+<br />
 
-<h1>Special Thanks to:</h1>
-
+# :handshake: Special Thanks to:
 **DaRk_StyLe** - Idea to set grenade status colors by cvars
 
 <br />
 
-<h1>To do:</h1>
-
+# :ballot_box_with_check: To do:
 * Support for custom nades
 
-<br /><br />
+<br />
 
-<h1>Changelog:</h1>
-
+# :scroll: Changelog:
     - v1.0: First Release
     - v1.1: [+] Added cvars to set grenade status color
     - v1.2:
