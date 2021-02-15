@@ -1,4 +1,4 @@
-<h1 align="center">[AMXX][ZP] Addon: Grenade Status v1.2</h1>
+<h1 align="center">:electric_plug::biohazard:[AMXX][ZP] Addon: Grenade Status v1.2</h1>
 
 <p align="center"><img src="https://raw.githubusercontent.com/kpuc313/AMXX-ZP_Addon_Grenade_Status/master/Preview/Preview.jpg" width="700px"></p>
 
@@ -39,7 +39,7 @@ This is a plugin for Counte-Strike 1.6's Zombie Plague Mod that shows your grena
 
 <br />
 
-<h1>:electric_plug: Requirements:</h1>
+<h1>:books: Requirements:</h1>
 <b>zombieplague</b>
 
 <br /><br />
