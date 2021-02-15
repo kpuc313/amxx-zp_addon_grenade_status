@@ -48,7 +48,7 @@ This is a plugin for Counte-Strike 1.6's Zombie Plague Mod that shows your grena
 <br />
 
 # :ballot_box_with_check: To do:
-* Support for custom nades
+* Support for custom grenades.
 
 <br />
 
