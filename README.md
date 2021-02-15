@@ -58,4 +58,4 @@ This is a plugin for Counte-Strike 1.6's Zombie Plague Mod that shows your grena
     - v1.2:
     [+] Added cvar to choose type of icon
     [+] Added cvars to enable/disable every nade icon status
-    [+] Changed icon of the infect nade. Now it's more cool 8)
+    [~] Changed icon of the infect nade. Now it's more cool 8)
