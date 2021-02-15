@@ -43,7 +43,7 @@ This is a plugin for Counte-Strike 1.6's Zombie Plague Mod that shows your grena
 <br />
 
 # :handshake: Thanks to:
-**DaRk_StyLe** - Idea to set grenade status colors by cvars
+**DaRk_StyLe** - Idea to set grenade status colors by cvars.
 
 <br />
 
