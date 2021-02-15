@@ -53,9 +53,9 @@ This is a plugin for Counte-Strike 1.6's Zombie Plague Mod that shows your grena
 <br />
 
 # :scroll: Changelog:
-    - v1.0: First Release
-    - v1.1: [+] Added cvars to set grenade status color
+    - v1.0: First Release.
+    - v1.1: [+] Added cvars to set grenade status color.
     - v1.2:
-    [+] Added cvar to choose type of icon
-    [+] Added cvars to enable/disable every grenade icon status
-    [~] Changed icon of the infect grenade. Now it's more cool 8)
+    [+] Added cvar to choose type of icon.
+    [+] Added cvars to enable/disable every grenade icon status.
+    [~] Changed icon of the infect grenade. Now it's more cool. 8)
