@@ -22,7 +22,7 @@
 *
 * Thanks to:
 * ==================
-* DaRk_StyLe - Idea to set grenade status colors by cvars
+* DaRk_StyLe - Idea to set grenade status colors by cvars.
 *
 *****************************************************************/
 
