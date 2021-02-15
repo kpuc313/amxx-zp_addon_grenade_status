@@ -21,19 +21,19 @@ This is a plugin for Counte-Strike 1.6's Zombie Plague Mod that shows your grena
     
     // Fire Grenade Cvars  
     zp_firenade_icon "1" // [0=Disable | 1=Enable]
-    zp_firenade_color "255 0 0" // Color of Fire Nade in RGB
+    zp_firenade_color "255 0 0" // Color of Fire Grenade in RGB
     
     // Frost Grenade Cvars  
     zp_frostnade_icon "1" // [0=Disable | 1=Enable]
-    zp_frostnade_color "100 149 237" // Color of Frost Nade in RGB
+    zp_frostnade_color "100 149 237" // Color of Frost Grenade in RGB
     
     // Flare Grenade Cvars  
     zp_flarenade_icon "1" // [0=Disable | 1=Enable]
-    zp_flarenade_color "255 255 255" // Color of Flare Nade in RGB
+    zp_flarenade_color "255 255 255" // Color of Flare Grenade in RGB
     
     // Infect Grenade Cvars  
     zp_infectnade_icon "1" // [0=Disable | 1=Enable]
-    zp_infectnade_color "0 255 0" // Color of Infect Nade in RGB
+    zp_infectnade_color "0 255 0" // Color of Infect Grenade in RGB
 
 <br />
 
