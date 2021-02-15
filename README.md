@@ -1,4 +1,4 @@
-<h1 align="center">[AMXX][ZP] Addon: Grenade Status v1.2</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kpuc313/AMXX-ZP_Addon_Grenade_Status/main/Preview/amxx_logo.jpg"> [AMXX][ZP] Addon: Grenade Status v1.2</h1>
 
 <p align="center"><img src="https://raw.githubusercontent.com/kpuc313/AMXX-ZP_Addon_Grenade_Status/master/Preview/Preview.jpg" width="700px"></p>
 
