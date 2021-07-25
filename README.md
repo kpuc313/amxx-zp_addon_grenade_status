@@ -11,7 +11,7 @@
 <br />
 
 # :page_facing_up: Description:
-This is a plugin for Counte-Strike 1.6's Zombie Plague Mod that shows your grenade status: Fire, Frost, Flare and Infection.
+This is a plugin for Counte-Strike 1.6's Zombie Plague Mod which shows your grenade status: Fire, Frost, Flare and Infection.
 
 <br />
 
